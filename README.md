@@ -6,7 +6,7 @@ Movie Vista is a web application built using React, SCSS, and Redux Toolkit, des
 
 - **Browse Movies**: Explore a vast library of movies, including the latest releases, top-rated films, and more. 🎞️📽️
 
-- **Search**: Quickly find movies by title, director, actors, or genre. 🔍🔎
+- **Search**: Quickly find movies by title, director, actors, or genre. 🔍
 
 - **Movie Details**: View detailed information about each movie, including plot summaries, cast, release date, and user ratings. ℹ️📃
 
@@ -16,7 +16,7 @@ Movie Vista is a web application built using React, SCSS, and Redux Toolkit, des
 
 ## Screenshot 📸
 
-![HomePage](/src/assets/HomePage.png){width=650px height=530px}
+![HomePage](/src/assets/HomePage.png)
 
 ## Installation ⚙️
 
