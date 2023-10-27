@@ -1,8 +1,26 @@
-# React + Vite
+# Movie Vista App 🎥🍿
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+Movie Vista is a web application built using React, SCSS, and Redux Toolkit, designed for movie enthusiasts to explore, search, and discover information about movies. 🎬🔍
 
-Currently, two official plugins are available:
+## Features 🌟
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+- **Browse Movies**: Explore a vast library of movies, including the latest releases, top-rated films, and more. 🎞️📽️
+
+- **Search**: Quickly find movies by title, director, actors, or genre. 🔍🔎
+
+- **Movie Details**: View detailed information about each movie, including plot summaries, cast, release date, and user ratings. ℹ️📃
+
+- **Favorites**: Save your favorite movies for easy access later. ❤️📌
+
+- **Reviews**: Read and write movie reviews and ratings. 📝🌟
+
+## Screenshot 📸
+
+![HomePage](/src/assets/HomePage.png){width=650px height=530px}
+
+## Installation ⚙️
+
+1. Clone the repository:
+   ```bash
+   git clone https://github.com/yourusername/movie-vista.git
+   ```
